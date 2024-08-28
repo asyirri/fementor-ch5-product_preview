@@ -58,7 +58,7 @@ main {
     font-family: var(--montserrat);
     text-transform: uppercase;
     letter-spacing: .5em;
-    font-size: 1em;
+    font-size: .8em;
     font-weight: 400;
 }
 
@@ -93,6 +93,7 @@ main {
 .product__price-original {
     color: var(--neutral-grayish-blue);
     font-weight: 500;
+    font-size: .85em;
     text-decoration: line-through;
 }
 
